@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023479882409",
+    "firebase_url": "https://grupos-cami.firebaseio.com",
+    "project_id": "grupos-cami",
+    "storage_bucket": "grupos-cami.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023479882409:android:4d057d2f7100944ca9bfb8",
+        "android_client_info": {
+          "package_name": "com.iglesiacami.grupospequenos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023479882409-k644jcfnp05e8dsi11tdanatag4010ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iglesiacami.grupospequenos",
+            "certificate_hash": "4c14f7a2fd413d31dd216908d164c1e814f5b1d9"
+          }
+        },
+        {
+          "client_id": "1023479882409-lk7hr6vsdm10sgc41esebijouc6cb17g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGjAXyKSGYXoA6dgTHRIM2w-z9k_lZyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023479882409-lk7hr6vsdm10sgc41esebijouc6cb17g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
